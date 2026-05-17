@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Zakelijke KM Logger">
+  <rect width="512" height="512" rx="96" fill="#1f4b45"/>
+  <path fill="#f4f7f5" d="M124 292h264l-22-76c-9-30-27-44-58-44H204c-31 0-49 14-58 44l-22 76Zm62-28 11-38c2-7 6-10 14-10h90c8 0 12 3 14 10l11 38H186Z"/>
+  <circle cx="174" cy="326" r="29" fill="#f4f7f5"/>
+  <circle cx="338" cy="326" r="29" fill="#f4f7f5"/>
+  <path fill="#cfe4dc" d="M150 128h212v36H150zM192 382h128v34H192z"/>
+</svg>

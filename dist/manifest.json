@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "Zakelijke KM Logger",
+  "short_name": "KM Logger",
+  "description": "Lokale PWA voor het registreren van zakelijke kilometers met een privéauto.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#f4f7f5",
+  "theme_color": "#1f4b45",
+  "lang": "nl-NL",
+  "dir": "ltr",
+  "orientation": "portrait",
+  "categories": ["business", "productivity", "finance"],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Nieuwe rit",
+      "short_name": "Nieuwe rit",
+      "description": "Open de app om een nieuwe rit toe te voegen.",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/icons/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}
